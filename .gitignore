@@ -1,0 +1,52 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/$RECYCLE.BIN
+/.pnpm-store
+/103174603_b5727b46850d8c3b40795fcecc487729.exe
+/AIforstudy.zip
+/ApowerRECData
+/BaiduNetdiskDownload
+/BaiduNetdisk_7.44.5.2.exe
+/C#
+/ChromeSetup.exe
+/clash
+/cxdownload
+/data_news_300
+/develop
+/Drivers
+/elevoc_dnn_kernel.log
+/env
+/finalshell_windows_x64.exe
+/images
+/IntelliJ IDEA Community Edition 2024.3
+/java-learn
+/java-learn.zip
+/jetbrains-agent-latest.zip
+/KDubaSoftDownloads
+/Ksafe
+/LenovoSoftstore
+/LeStoreDownload
+/Program Files
+/Program Files (x86)
+/ProgramData
+/python
+/python-learn
+/react
+/soft
+/sublime_text_build_4180_x64_setup.exe
+/user.dat
+/Users
+/vs2022
+/VSCodeUserSetup-x64-1.94.0.exe
+/win2024
+/Windows-SSD (C) - 快捷方式.lnk
+/xwechat_files
+/下载
+/图片
+/数据结构
+/缓存
+/郑小君-原始佐证材料
+/郑小君-原始佐证材料.zip
+/郑小君.docx
